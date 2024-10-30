@@ -1,0 +1,27 @@
+------------------------------------------------------
+Problemática:
+El usuario quiere saber cuantas letras tiene una palabla
+------------------------------------------------------
+
+------------------------------------------------------
+Algoritmo:
+1. Solicitar al usuario que ingrese una palabla
+2. Contaríamos la cantidad de letras en la palabla ingresada
+3.Mostraremos al usç la cantidad de letras que tiene la palabra ingresada
+------------------------------------------------------
+
+------------------------------------------------------
+Pseudocódigo:
+
+Inicio del programa
+    // Paso 1: Solicitar entrada al usuario
+    Mostrar mensaje: "por favor, ingreses una palabla: "
+    Definir variable palabla_ingresada con la lectura de la entrada
+
+    // Paso 2: Contar la cantidad de letras
+    Definir la variable cantidad_letras y asignarle la longitud de palabla_ingresada
+
+    // Paso 3: Mostrar al usuario el resultado
+    Mostrar mensaje: "La palabla ingresada tiene", cantidad_letras. "letras"
+Fin del programa
+------------------------------------------------------
